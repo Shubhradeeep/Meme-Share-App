@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
             // Instantiate the RequestQueue.
 
                // val queue = Volley.newRequestQueue(this)
-               url = "https://meme-api.herokuapp.com/gimme"
+               url = "https://meme-api.com/gimme"
 
         // Request a string response from the provided URL.
                 val jsonObjectRequest = JsonObjectRequest(
